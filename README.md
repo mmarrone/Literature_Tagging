@@ -1,4 +1,4 @@
-# Literature_Tagging
+# Automated Literature Tagging
 
 Thanks for your interest. This quickguide has been developed to help you apply the Entity Linking Method. 
 This section of the method comprises 12 simple steps and covers steps 11 and 12 of our setp-by-step guideline published in the Organization Research Methods Journal. 
