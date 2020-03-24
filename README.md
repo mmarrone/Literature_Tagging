@@ -1,7 +1,7 @@
 # Automated Literature Tagging
 
 Thanks for your interest. This quick guide has been developed to help you apply the Entity Linking Method. 
-This section of the method comprises 12 simple steps and covers steps 11 and 12 of our step-by-step guideline published in the Organization Research Methods Journal. 
+This section of the method comprises seven simple steps and covers steps 11 and 12 of our step-by-step guideline published in the Organization Research Methods Journal. 
 
 Step 1)
 - Get an authorization token from TagMe. This is easy - just create a new account (called a TagMe VRE account) here: https://sobigdata.d4science.org/web/tagme/tagme-help
