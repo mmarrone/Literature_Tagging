@@ -16,8 +16,8 @@ Step 3)
   - Launch Anaconda and click on "Jupyter Notebook"
   
  Step 4) 
- - Copy and paste the python code provided to a new notebook
- - Rename the file that you downloaded to "scopus.csv"
+ - Download the TagMe.ipynb and open it using Jupyter Notebook.
+ - Rename the file that you downloaded to "scopus.csv".
  - Move the file to the jupyter folder where you are running your code.
  
  Step 5) 
